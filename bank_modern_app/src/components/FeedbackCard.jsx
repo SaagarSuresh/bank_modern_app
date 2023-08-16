@@ -1,9 +1,9 @@
 import React from 'react'
 
-const FeedvackCard = () => {
+const FeedbackCard = () => {
   return (
     <div>FeedvackCard</div>
   )
 }
 
-export default FeedvackCard
+export default FeedbackCard
